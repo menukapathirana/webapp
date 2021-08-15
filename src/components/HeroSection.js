@@ -8,7 +8,7 @@ function HeroSection() {
     return (
       <div className='hero-container'>
         <video src='/videos/main.mp4' autoPlay loop muted />
-        <h1>Your favoirte pics online</h1>
+        <h1>Your favourite pics online</h1>
         <p>Upload Your Images Now</p>
         <UploadForm/>
         {/* <div className='hero-btns'>
